@@ -6,7 +6,7 @@ Welcome to React Color Generator! This project is a web application built with R
 
 To run React Color Generator locally, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/react-color-generator.git](https://github.com/Carbrex/react-color-generator.git)`
+1. Clone the repository: `git clone https://github.com/Carbrex/react-color-generator.git`
 2. Navigate to the project directory: `cd react-color-generator`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
