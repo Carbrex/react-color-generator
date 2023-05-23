@@ -1,6 +1,6 @@
 # React Color Generator
 
-Welcome to React Color Generator! This project is a web application built with React that allows users to generate random colors and explore different color palettes. Users can customize colors, copy color codes, and save favorite palettes for future reference.
+Welcome to React Color Generator! This project is a web application built with React that allows users to generate random colors and explore different color palettes. Users can customize colors and copy color codes.
 
 ## Getting Started
 
